@@ -3,7 +3,7 @@ title: <input type="number">
 slug: Web/HTML/Element/Input/number
 ---
 
-{{HTMLSidebar("Input_types")}}
+{{HTMLSidebar}}
 
 **`number`** 类型的 {{HTMLElement("input")}} 元素用于让用户输入一个数字，其包括内置验证以拒绝非数字输入。
 
